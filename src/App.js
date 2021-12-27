@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Deployment is succesful!</h1>
+        <h1>React App with Continuos Deployment</h1>
       </header>
     </div>
   );
